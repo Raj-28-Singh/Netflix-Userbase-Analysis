@@ -1,5 +1,12 @@
 # Netflix Userbase Analysis
-Exploratory data analysis of Netflix user data using Python and Pandas to uncover user demographics, subscription patterns, and behavioral insights.
+About
+
+Exploratory data analysis of Netflix user data
+using Python and Pandas to uncover user
+demographics, subscription patterns, and
+behavioral insights.
+
+Topics
 python
 pandas
 data-analysis
