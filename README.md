@@ -94,3 +94,11 @@ A detailed report containing the methodology, analysis, visualizations, findings
 
 📑 **[View Project Report](./Report_on_Netflix_User.pdf)**
 
+## 👨‍💻 Author
+
+**Raj Singh**
+
+MSc Data Science Student | Aspiring Data Analyst / Data Scientist
+
+[GitHub](https://github.com/Raj-28-Singh)
+
